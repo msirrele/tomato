@@ -1,0 +1,7 @@
+{
+	"GCLOUD_PROJECT": "tomato-236606",
+	"DATA_BACKEND": "datastore",
+	"OAUTH2_CLIENT_ID": "440480841183-jq9rni7mf12q9g7kt211es3tqkgbnu5o.apps.googleusercontent.com",
+	"OAUTH2_CLIENT_SECRET": "5THnLjIH8u0Miqz0jogS-_1p",
+	"OAUTH2_CALLBACK": "https://tomato-236606.appspot.com/auth/google/callback"
+}
